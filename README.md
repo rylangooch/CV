@@ -43,6 +43,7 @@ My brain only knows how to approach problems with systematic and logical reasoni
 
 - A Levels: Mathematics (A), History (A), Philosophy (A)
 - AS Levels: Physics (A)
+- GCSEs: 11 (all at A*/A)
 
 ## Experience
 **Xylobands** (August 2015 to July 2016)

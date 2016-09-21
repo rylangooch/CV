@@ -6,7 +6,7 @@ Software is about to change the world in ways that we’re yet to fully understa
 
 #### Analytical
 
-My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding a such a box-ticker for me. After the final project at Makers Academy, my teammates mentioned (said?) that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
+My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding a such a box-ticker for me. For example, after the final project at Makers Academy, my teammates mentioned (said?) that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
 
 #### Communication
 

@@ -6,20 +6,20 @@ Software is about to change the world in ways that we’re yet to fully understa
 
 #### Analytical
 
-My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding a such a box-ticker for me. For example, after the final project at Makers Academy, my teammates mentioned (said?) that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
+My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding a such a box-ticker for me. For example, after the final project at Makers Academy, my teammates acknowledged that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 #### Attention to Detail
 
-As a Financial Planning Administrator, a misplaced ‘0’ was the difference between
+<!-- As a Financial Planning Administrator, a misplaced ‘0’ was the difference between -->
 
 ## Education
 

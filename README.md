@@ -1,6 +1,6 @@
 ## Rylan Gooch
 
-Software is about to change the world in ways that we’re yet to fully understand. My ambition is to be as heavily involved in that evolution as I can. This ambition brought me to Makers Academy, where I’ve been learning how to craft code that is test-driven, modular and clean. I’m looking to build on these foundations as a Junior Developer in an ambitious team with a shared vision.
+Software is about to change the world in ways that we’re yet to fully understand. My ambition is to be as heavily involved in that evolution as I can. This ambition brought me to Makers Academy, where I’ve been learning how to craft code that is test-driven, modular and clean. I’m looking to build on these foundations as a junior developer in an ambitious team with a shared vision.
 
 ## Skills
 

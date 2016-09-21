@@ -47,5 +47,6 @@ As a Financial Planning Administrator, a misplaced ‘0’ was the difference be
 ## Experience
 **Xylobands** (August 2015 to July 2016)
 *Sales & Marketing*
+
 **Montgomery Charles Financial Management** (July 2013 to March 2015)
 *Financial Planning Administrator*

@@ -1,6 +1,9 @@
 ## Rylan Gooch
 
-Software is about to change the world in ways that we’re yet to fully understand. My ambition is to be as heavily involved in that evolution as I can. This ambition brought me to Makers Academy, where I’ve been learning how to craft code that is test-driven, modular and clean. I’m looking to build on these foundations as a junior developer in an ambitious team with a shared vision.
+
+The primary goal of my academic career was to develop a comprehensive world view. This process led me to two conclusions: 0. I love being at the intersection between the sciences and the arts. 1. Software has become the most effective means by which to effect positive change in the world. This is why coding ticks so many boxes for me; problem solving, abstract reasoning and the potential to have an impact to name a few. I've been spending the last 3 months learning the importance of writing code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
+
+
 
 ## Skills
 
@@ -10,6 +13,10 @@ My brain only knows how to approach problems with systematic and logical reasoni
 
 #### Communication
 
+Curiosity
+
+Teamwork
+
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -17,9 +24,11 @@ My brain only knows how to approach problems with systematic and logical reasoni
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
+
+
 #### Attention to Detail
 
-<!-- As a Financial Planning Administrator, a misplaced ‘0’ was the difference between -->
+As a Financial Planning Administrator, it was my responsibility to accurately provide the data that enabled our consultants to give sound advice. A misplaced ‘0’ was the difference between a jolly client and a fired consultant. My eye for detail allows me to view situations from multiple perspectives and quickly get to the core of the problem.
 
 ## Education
 

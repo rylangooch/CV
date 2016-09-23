@@ -1,19 +1,20 @@
 ## Rylan Gooch
 
 
-The primary goal of my academic career was to develop a comprehensive world view. This process led me to two conclusions: 0. I love being at the intersection between the sciences and the arts. 1. Software has become the most effective means by which to effect positive change in the world. This is why coding ticks so many boxes for me; problem solving, abstract reasoning and the potential to have an impact to name a few. I've been spending the last 3 months learning the importance of writing code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
-
+I love software development because it's at the intersection between science and art. It teams logical empiricism with abstract reasoning and creativity. It has also become the most accessible way of effecting positive change in the world. This is the reason I applied to Makers Academy, Europe's leading coding bootcamp, where I've been spending the last three months learning the importance of writing code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
 
 
 ## Skills
 
 #### Analytical
 
-My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding a such a box-ticker for me. During the final project at Makers Academy my teammates acknowledged that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
+My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding appeals to me so much. During the final project at Makers Academy my teammates acknowledged that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
 
 #### Communication
 
-Curiosity
+#### Curiosity
+
+I've always been insatiable about understanding why things are the way they are. It was when my parents could no longer answer 'why?' that I began pursuing philosophy all the way to degree level.
 
 Teamwork
 

@@ -66,13 +66,16 @@ As a Financial Planning Administrator, it was my responsibility to accurately pr
 Xylobands is a small technology company that specialise in producing LED wristbands that can be controlled for music-orientated events. I focused on marketing, handling inbound sales enquiries and programming our products for clients that included Coldplay, Nike and Microsoft.
 
 **Mind The Horizon** (June 2015 to November 2015)
+
 *Contributor*
 
 
 Mind The Horizon is an online magazine created to provide accessible coverage of interesting news in technology, science and environment. I used analytics tools to influence the nature of our content and generate reader growth, as well as providing written contributions to the magazine and social media accounts.
 
 **Montgomery Charles Financial Management** (July 2013 to March 2015)
+
 *Financial Planning Administrator*
+
 Digitised core elements of our administrative process, thereby doubling the number of clients our consultants could take on.
 
 ## Interests

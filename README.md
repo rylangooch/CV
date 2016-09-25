@@ -4,31 +4,22 @@ rylangooch@gmail.com | 07595229777
 
 I love software development because it's at the intersection between science and art. It teams logical problem-solving with abstract reasoning and creativity. It has also become the most accessible way of effecting positive change in the world. This is the reason I applied to Makers Academy, Europe's leading coding bootcamp, where I've spent the last three months learning the importance of writing code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
 
+## Projects
+
+Name | Description | Technology | Testing |
+---|---|---|---|---
+ [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a social betting app that adds social accountability to the innucuous bet. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
+ [Bloom](https://github.com/thehappinessproject/happiness_project) | A skills tracking app for budding web developers. Visualise your growth in confidence over time whilst receiving resources to help eradicate your weaknesses. | Ruby, Rails, PostgreSQL | Rspec, Capybara
 
 ## Skills
 
 #### Analytical
 
-My brain only knows how to approach problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding appeals to me so much. During the final project at Makers Academy my teammates acknowledged that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
+My brain approaches problems with systematic and logical reasoning. It’s this mindset that veered me towards mathematics, philosophy and economics in academia, and it’s one of the reasons why coding appeals to me so much. During the final project at Makers Academy my teammates acknowledged that I was frequently able to conceptualise and articulate problems in a way that eased decision making.
 
 #### Communication
 
 Communication is vital for understanding project requirements and collaborating effectively with a team. I've been able to develop this skill by working in marketing and sales as well as travelling across South America, where I had to interact with people of different language and culture in order to get by.
-
-<!-- #### Curiosity
-
-I've always been insatiable about understanding why things are the way they are. It was when my parents could no longer answer 'why?' that I began pursuing philosophy all the way to degree level.
-
-Teamwork -->
-
-<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
-
-
 
 #### Attention to Detail
 

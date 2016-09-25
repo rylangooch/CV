@@ -8,8 +8,8 @@ I love software development because it's at the intersection between science and
 
 Name | Description | Technology | Testing |
 ---|---|---|---|---
- [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a social betting app that adds social accountability to the innucuous bet. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
- [Bloom](https://github.com/thehappinessproject/happiness_project) | A skills tracking app for budding web developers. Visualise your growth in confidence over time whilst receiving resources to help eradicate your weaknesses. | Ruby, Rails, PostgreSQL | Rspec, Capybara
+ [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a social betting app that adds social accountability to the innocuous bet. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
+ [Bloom](https://github.com/thehappinessproject/happiness_project) | A skills tracking app for budding web developers. Visualise your growth in confidence over time whilst receiving resources to help eradicate your weaknesses. | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara
 
 ## Skills
 

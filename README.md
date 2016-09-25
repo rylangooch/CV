@@ -1,4 +1,4 @@
-## Rylan Gooch
+# Rylan Gooch
 
 rylangooch@gmail.com | 07595229777
 

@@ -69,9 +69,11 @@ Mind The Horizon is an online magazine created to provide accessible coverage of
 
 Digitised core elements of our administrative process, thereby doubling the number of clients our consultants could take on.
 
-## Interests
+## When I'm not coding, I like to...
 
-- Exercise and 5-a-side-football
-- Travel
-- Music
-- Personal development
+- Attend meet-ups to learn, hear about technological trends and exchange opinions
+- Read about topics related to personal development
+- Lift weights at the gym
+- Experience unfamiliar cultures
+- Attend music gigs and festivals
+

@@ -29,9 +29,10 @@ As a Financial Planning Administrator, it was my responsibility to accurately pr
 
 #### Makers Academy (July 2016 to September 2016)
 
+A 16-week, high-intensity, full-stack web development course focusing on best-practice and software craftsmanship.
+
 - Agile Development
 - OOP, TDD, SOLID, MVC, XP
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, React Native
 - Rspec, Jasmine, Mocha
 

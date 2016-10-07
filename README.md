@@ -38,8 +38,7 @@ A 16-week, high-intensity, full-stack web development course focusing on best-pr
 
 #### University of York (September 2011 to July 2014)
 
-- Politics, Philosophy and Economics BA (Hons)
-- 2:1
+- BA Politics, Philosophy and Economics (2:1)
 - Co-founded student-run marketing agency
 - Social Secretary of James College Football Club
 

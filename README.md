@@ -19,7 +19,7 @@ My brain approaches problems with systematic and logical reasoning. It’s this 
 
 #### Communication
 
-Communication is vital for understanding project requirements and collaborating effectively with a team. I've been able to develop this skill by working in marketing and sales as well as travelling across South America, where I had to interact with people of different language and culture in order to get by.
+Communication is vital for understanding project requirements and collaborating effectively with a team. I've been able to develop this skill by working in marketing and sales as well as travelling across South America, where I had to interact with people of different language and culture in order to get by. Having high emotional intelligence helps me to adapt my interaction with the person I'm relating to, whether it's an ultra-high net worth client as a Financial Planning Administrator or a pair-programmer at Makers Academy.
 
 #### Attention to Detail
 

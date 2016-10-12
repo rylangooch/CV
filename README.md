@@ -4,13 +4,6 @@
 
 Having graduated with a degree in Politics, Philosophy and Economics, software development fascinates me because it's also at the intersection between science and art. It teams logical problem-solving with abstract reasoning and creativity. It has also become the most accessible way of effecting positive change in the world. This is the reason I applied to [Makers Academy](www.makersacademy.com), Europe's leading coding bootcamp, where I've spent the last four months learning the importance of crafting code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
 
-## Projects
-
-Name | Description | Technology | Testing |
----|---|---|---|---
- [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a social betting app that adds social accountability to the innocuous bet. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
- [Bloom](https://github.com/thehappinessproject/happiness_project) | A skills tracking app for budding web developers. Visualise your growth in confidence over time whilst receiving resources to help eradicate your weaknesses. | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara
-
 ## Skills
 
 #### Analytical
@@ -24,6 +17,13 @@ Communication is vital for understanding project requirements and collaborating 
 #### Attention to Detail
 
 As a Financial Planning Administrator, it was my responsibility to accurately provide the data that enabled our consultants to give sound advice. A misplaced ‘0’ was the difference between a jolly client and a fired consultant. My eye for detail allows me to view situations from multiple perspectives and quickly get to the core of the problem.
+
+## Projects
+
+Name | Description | Technology | Testing |
+---|---|---|---|---
+ [Challenge Accepted](https://github.com/challenge-accepted-team) ([Demo](https://vimeo.com/182997446)) | Challenge Accepted is a social betting app that adds social accountability to the innocuous bet. | React Native, Ruby on Rails, PostgreSQL | XCode UI testing framework
+ [Bloom](https://github.com/thehappinessproject/happiness_project) | A skills tracking app for budding web developers. Visualise your growth in confidence over time whilst receiving resources to help eradicate your weaknesses. | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara
 
 ## Education
 
@@ -60,8 +60,7 @@ Xylobands is a small technology company that specialise in producing LED wristba
 
 *Contributor*
 
-
-Mind The Horizon is an online magazine created to provide accessible coverage of interesting news in technology, science and environment. I used analytics tools to influence the nature of our content and generate reader growth, as well as providing written contributions to the magazine and social media accounts.
+Mind The Horizon is an online magazine created to provide accessible coverage of interesting news in technology, science and environment. I used analytics tools to influence the nature of our content and generate reader growth, as well as providing written contributions to the magazine and social media accounts. Check out an [article](https://mindthehorizon.com/2015/06/22/wearable-tech-short-term-fad-or-here-to-stay/) I wrote about wearable technology.
 
 **Montgomery Charles Financial Management** (July 2013 to March 2015)
 
@@ -76,4 +75,3 @@ Digitised core elements of our administrative process, thereby doubling the numb
 - Lift weights at the gym
 - Experience unfamiliar cultures
 - Attend music gigs and festivals
-

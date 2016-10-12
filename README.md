@@ -1,5 +1,5 @@
 # Rylan Gooch
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
 Having graduated with a degree in Politics, Philosophy and Economics, software development fascinates me because it's also at the intersection between science and art. It teams logical problem-solving with abstract reasoning and creativity. It has also become the most accessible way of effecting positive change in the world. This is the reason I applied to [Makers Academy](www.makersacademy.com), Europe's leading coding bootcamp, where I've spent the last four months learning the importance of crafting code that is test-driven, modular and clean. I'm looking to build on these foundations in an ambitious team with a shared vision.
@@ -71,7 +71,7 @@ Digitised core elements of our administrative process, thereby doubling the numb
 ## When I'm not coding, I like to...
 
 - Attend meet-ups to learn, hear about technological trends and exchange opinions
-- Read about topics related to personal development
+- Read and discuss topics related to technology and personal development
 - Lift weights at the gym
 - Experience unfamiliar cultures
 - Attend music gigs and festivals
